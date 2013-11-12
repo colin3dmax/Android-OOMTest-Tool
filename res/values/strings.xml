@@ -1,0 +1,35 @@
+<resources>
+
+    <string name="app_name">OOM Research</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">OOM Research</string>
+    <string name="addData">Add Data</string>
+    <string name="addBitmap">Add Bitmap</string>
+    <string name="removeBitmap">Remove Bitmap</string>
+    <string name="removeData">Remove Data</string>
+    <string name="causeGC">Cause GC</string>
+    <string name="TotalAllocated">Total Allocated</string>
+    <string name="MB8">8.0 MB</string>
+    <string name="NativeAllocated">Native Allocated</string>
+    <string name="M4">4M</string>
+    <string name="VMAllocated">VM Allocated</string>
+    <string name="M16">16M</string>
+    <string name="NativeHeapSize">Native Heap Size</string>
+    <string name="Max">Max</string>
+    <string name="VMHeapSize">VM Heap Size</string>
+    <string name="BitmapSize">Bitmap Size</string>
+    <string name="M0">0M</string>
+    <string name="DataSize">Data Size</string>
+    <string name="thisActivity">Note: This option only applies to New Activity.</string>
+    <string name="RecreateActivityAfterRotation">Recreate Activity After Rotation.</string>
+    <string name="M5">5M</string>
+    <string name="M01">0.1M</string>
+    <string name="DataSizePerClick">Data Size Per Click</string>
+    <string name="DataSizePerActivity">Data Size Per Activity</string>
+    <string name="s50">50s</string>
+    <string name="s0">0s</string>
+    <string name="Backgroundtaskrunningtime">Background task running time</string>
+    <string name="background_tasks">background_tasks</string>
+
+</resources>
